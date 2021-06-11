@@ -1,0 +1,30 @@
+2021.06.11 03:25	Project Discovery reward	2.100.089.000 ISK	223.784.745 ISK	Reward given for scientific contribution to Project Discovery.
+2021.06.11 03:25	Corporation tax on Project Discovery rewards	-54.450 ISK	223.730.295 ISK	Corporation tax on Project Discovery rewards
+2021.06.11 03:20	Project Discovery reward	594.000 ISK	222.725.445 ISK	Reward given for scientific contribution to Project Discovery.
+2021.06.11 03:20	Corporation tax on Project Discovery rewards	-29.700 ISK	222.695.745 ISK	Corporation tax on Project Discovery rewards
+2021.06.11 03:18	Player Donation	-614.000 ISK	222.131.445 ISK	[r] ElReyRt deposited cash into Settlers Inc.'s account
+2021.06.11 03:09	Project Discovery reward	495.000 ISK	222.770.195 ISK	Reward given for scientific contribution to Project Discovery.
+2021.06.11 03:09	Corporation tax on Project Discovery rewards	-24.750 ISK	222.745.445 ISK	Corporation tax on Project Discovery rewards
+2021.06.10 23:49	Bounty Prizes	931.956 ISK	222.321.793 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 23:49	Bounty Prize Corporation Tax	-46.597 ISK	222.275.195 ISK	Corporation tax on pirate bounties
+2021.06.10 23:29	Bounty Prizes	1.978.191 ISK	221.488.746 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 23:29	Bounty Prize Corporation Tax	-98.909 ISK	221.389.837 ISK	Corporation tax on pirate bounties
+2021.06.10 23:09	Bounty Prizes	1.567.382 ISK	219.588.924 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 23:09	Bounty Prize Corporation Tax	-78.369 ISK	219.510.555 ISK	Corporation tax on pirate bounties
+2021.06.10 22:49	Bounty Prizes	152.457 ISK	218.029.165 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 22:49	Bounty Prize Corporation Tax	-7.622 ISK	218.021.542 ISK	Corporation tax on pirate bounties
+2021.06.10 22:29	Bounty Prizes	575.661 ISK	217.905.490 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 22:29	Bounty Prize Corporation Tax	-28.783 ISK	217.876.707 ISK	Corporation tax on pirate bounties
+2021.06.10 22:09	Bounty Prizes	1.861.038 ISK	217.422.881 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 22:09	Bounty Prize Corporation Tax	-93.051 ISK	217.329.829 ISK	Corporation tax on pirate bounties
+2021.06.10 21:19	Bounty Prizes	247.273 ISK	215.574.207 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 21:19	Bounty Prize Corporation Tax	-12.363 ISK	215.561.843 ISK	Corporation tax on pirate bounties
+2021.06.10 20:59	Bounty Prizes	963.560 ISK	215.375.111 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 20:59	Bounty Prize Corporation Tax	-48.178 ISK	215.326.933 ISK	Corporation tax on pirate bounties
+2021.06.10 20:39	Bounty Prizes	2.760.756 ISK	214.549.588 ISK	[r] ElReyRt got bounty prizes for killing pirates in Illi
+2021.06.10 20:39	Bounty Prize Corporation Tax	-138.037 ISK	214.411.550 ISK	Corporation tax on pirate bounties
+2021.06.10 03:50	Bounty Prizes	445.446 ISK	211.811.104 ISK	[r] ElReyRt got bounty prizes for killing pirates in Zahefeus
+2021.06.10 03:50	Bounty Prize Corporation Tax	-22.272 ISK	211.788.832 ISK	Corporation tax on pirate bounties
+2021.06.10 03:30	Bounty Prizes	350.938 ISK	211.383.205 ISK	[r] ElReyRt got bounty prizes for killing pirates in Zahefeus
+2021.06.10 03:30	Bounty Prize Corporation Tax	-17.546 ISK	211.365.658 ISK	Corporation tax on pirate bounties
+2021.06.10 03:10	Bounty Prizes	456.944 ISK	211.055.113 ISK	[r] ElReyRt got bounty prizes for killing pirates in Zahefeus

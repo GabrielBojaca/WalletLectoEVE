@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EVE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EVE_jar</output-path>
+    <root id="archive" name="EVE.jar">
+      <element id="module-output" name="EVE" />
+    </root>
+  </artifact>
+</component>
